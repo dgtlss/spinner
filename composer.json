@@ -1,20 +1,20 @@
 {
     "name": "dgtlss/spinner",
     "description": "A Laravel package to spin content.",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nathan Langer",
-            "email": "32520453+dgtlss@users.noreply.github.com"
+            "email": "nathanlanger@googlemail.com"
         }
     ],
-    "require": {},
+    "minimum-stability": "dev",
     "autoload": {
-        "classmap": [
-            "database"
-        ],
         "psr-4": {
             "App\\": "app/",
             "dgtlss\\spinner\\": "packages/dgtlss/spinner/src"
         }
-    }
+    },
+    "require": {}
 }

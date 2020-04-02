@@ -1,2 +1,2 @@
-# 👨‍🍳 Spinner
+# 💻 Spinner
 ## By dgtlss
